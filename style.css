@@ -33,3 +33,8 @@ body{
     inset: 12px;
     text-align: center;
 }
+
+.clock span b{
+    position: rotate(calc);
+
+}
